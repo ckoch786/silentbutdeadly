@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "raylib"
+  ],
+  "builtin-baseline": "cd041f4e0ca6a20ba263bf0453c3844b0f382dd6"
+}
